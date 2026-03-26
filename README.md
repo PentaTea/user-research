@@ -53,15 +53,15 @@ Step 4  Synthesis Report (12 sections)
 
 ## Key Features
 
-| Feature | Description |
-|---------|-------------|
-| Anti-preset contamination | Personas only have "soul" — no preset pain points |
-| 4 validation checkpoints | Independent auditor agents with PASS/FLAG/BLOCK verdicts |
-| Phase 2 split | Per-persona extraction (parallel) → cross-analysis, each agent input < 6k chars |
-| Multi-concept testing | Compare multiple product concepts side-by-side |
-| Pricing probes | Value perception & willingness-to-pay in Phase 3 |
-| Iteration mode | Re-run Phase 3 with new concepts, add personas, re-analyze with new hypotheses |
-| Persona diversity | Checklist ensures seniority, org size, tech adoption coverage |
+| Feature                   | Description                                                                     |
+| ------------------------- | ------------------------------------------------------------------------------- |
+| Anti-preset contamination | Personas only have "soul" — no preset pain points                               |
+| 4 validation checkpoints  | Independent auditor agents with PASS/FLAG/BLOCK verdicts                        |
+| Phase 2 split             | Per-persona extraction (parallel) → cross-analysis, each agent input < 6k chars |
+| Multi-concept testing     | Compare multiple product concepts side-by-side                                  |
+| Pricing probes            | Value perception & willingness-to-pay in Phase 3                                |
+| Iteration mode            | Re-run Phase 3 with new concepts, add personas, re-analyze with new hypotheses  |
+| Persona diversity         | Checklist ensures seniority, org size, tech adoption coverage                   |
 
 ## Output
 
@@ -82,11 +82,11 @@ The synthesis report includes: Executive Summary, Journey Pain Map, Pain Point M
 
 ## Files
 
-| File | Role |
-|------|------|
-| `SKILL.md` | Self-contained execution handbook — the agent reads only this to run the full pipeline |
-| `references/methodology.md` | Principles & examples — explains "why", provides good/bad examples and boundary cases |
+| File                        | Role                                                                                   |
+| --------------------------- | -------------------------------------------------------------------------------------- |
+| `SKILL.md`                  | Self-contained execution handbook — the agent reads only this to run the full pipeline |
+| `references/methodology.md` | Principles & examples — explains "why", provides good/bad examples and boundary cases  |
 
 ## License
 
-MIT
+AGPL 3.0
